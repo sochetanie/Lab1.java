@@ -1,5 +1,3 @@
-package Lab1_1;
-
 import java.util.Scanner;
 
 public class InfoOf3 {
